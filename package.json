@@ -1,0 +1,36 @@
+{
+  "name": "sylvanas-gulp-pages",
+  "version": "0.1.0",
+  "description": "statuc web app workflow",
+  "keywords": [
+    "sylvanas-gulp-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/sylvanas/sylvanas-gulp-pages#readme",
+  "bugs": {
+    "url": "https://github.com/sylvanas/sylvanas-gulp-pages/issues"
+  },
+  "license": "MIT",
+  "author": "sylvanas <jzm362466464@126.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvanas/sylvanas-gulp-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
